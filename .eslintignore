@@ -1,0 +1,7 @@
+*.css
+*.svg
+*.jpeg
+*.jpg
+*.png
+/config
+/dist
